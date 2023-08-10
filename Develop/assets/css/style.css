@@ -47,89 +47,87 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 32px;
 }
 
-.hero {
+ .hero {
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
-   /* background-image: url("../images/digital-marketing-meeting.jpg");*/
-
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-
 .float-left {
     float: left;
-    margin-right: 25px;
+    margin-right: 50px;
 }
 
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-left: 50px;
 }
 
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 2%;
 }
 
 
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 2%;
+    padding: 75px;
+    height: 500px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 2%;
+    padding: 75px;
+    height: 500px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 2%;
+    padding: 75px;
+    height: 500px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 350px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 350px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 350px;
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 68px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 68px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 68px;
 }
 
 .benefits {
@@ -193,6 +191,7 @@ h3{
     margin: 10px auto;
     max-width: 260px;
 }
+
 
 .footer {
     padding: 30px;
