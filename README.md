@@ -1,4 +1,4 @@
 screen shots of the website taken from 15 inch laptop using snipping tool
-![Screenshot of page 1 of assignment 1](https://github.com/mrunmaigadbail/git-init-sample/assets/141286475/3cdc4c5c-51b4-4adf-a1c9-04c144413e5b)
-![Screenshot of page 2 of assignment 1](https://github.com/mrunmaigadbail/git-init-sample/assets/141286475/774769a6-1b64-42db-b62d-db7208ee2033)
-![Screenshot of page 3 of assignment 1](https://github.com/mrunmaigadbail/git-init-sample/assets/141286475/a05b1d4b-4091-41b3-9298-3d439bb0afae)
+![Screenshot of page 1 of assignment 1](https://github.com/mrunmaigadbail/MODULE_1_CHALLANGE/assets/141286475/39e35cf8-b9e8-408f-b43c-556eaa8ce839)
+![Screenshot of page 2 of assignment 1](https://github.com/mrunmaigadbail/MODULE_1_CHALLANGE/assets/141286475/80f991a1-e7d3-4c8b-8a28-eb85f5a4b0cf)
+![Screenshot of page 3 of assignment 1](https://github.com/mrunmaigadbail/MODULE_1_CHALLANGE/assets/141286475/e6f3f4fb-5ae0-4c8a-a9c5-e1f509300720)
